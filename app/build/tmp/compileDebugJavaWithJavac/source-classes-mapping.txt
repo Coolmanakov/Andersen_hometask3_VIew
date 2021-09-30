@@ -1,0 +1,2 @@
+com/example/andersen_hometask3_view/BuildConfig.java
+ com.example.andersen_hometask3_view.BuildConfig
