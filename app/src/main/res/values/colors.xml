@@ -7,4 +7,29 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="austria_red">#ED2939</color>
+
+    <color name="italy_green">#008C45</color>
+    <color name="italy_red">#CD212A</color>
+
+    <color name="columbia_yellow">#FCD116</color>
+    <color name="columbia_blue">#003893</color>
+    <color name="columbia_red">#CE1126</color>
+
+    <color name="madagascar_red">#FC3D32</color>
+    <color name="madagascar_green">#007E3A</color>
+
+    <color name="tailand_red">#A51931</color>
+    <color name="tailand_blue">#2D2A4A</color>
+
+    <color name="denmark_red">#A51931</color>
+
+    <color name="switzerland_red">#D52B1E</color>
+
+
+
+
+
+
 </resources>
