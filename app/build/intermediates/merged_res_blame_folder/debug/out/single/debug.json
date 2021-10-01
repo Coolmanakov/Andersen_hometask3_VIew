@@ -16,6 +16,10 @@
         "source": "C:\\Users\\Chestres\\AndroidStudioProjects\\Andersen_hometask3_VIew\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
+        "merged": "C:\\Users\\Chestres\\AndroidStudioProjects\\Andersen_hometask3_VIew\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_load_image.xml.flat",
+        "source": "C:\\Users\\Chestres\\AndroidStudioProjects\\Andersen_hometask3_VIew\\app\\src\\main\\res\\layout\\activity_load_image.xml"
+    },
+    {
         "merged": "C:\\Users\\Chestres\\AndroidStudioProjects\\Andersen_hometask3_VIew\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\Chestres\\AndroidStudioProjects\\Andersen_hometask3_VIew\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },

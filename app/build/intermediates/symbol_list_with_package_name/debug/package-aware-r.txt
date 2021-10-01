@@ -2035,6 +2035,7 @@ id fragment_container_view_tag
 id frost
 id ghost_view
 id ghost_view_holder
+id glide_custom_view_target_tag
 id gone
 id graph
 id graph_wrap
@@ -2054,6 +2055,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView
 id immediateStop
 id included
 id info
@@ -2075,6 +2077,7 @@ id line3
 id linear
 id listMode
 id list_item
+id mEditText
 id madagascar
 id masked
 id match_constraint
@@ -2384,6 +2387,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_flag
+layout activity_load_image
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -2507,6 +2511,7 @@ string character_counter_overflowed_content_description
 string character_counter_pattern
 string chip_text
 string clear_text_end_icon_content_description
+string enter_image_link
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
